@@ -7,6 +7,6 @@ Based on [Make It Stand: Balancing Shapes for 3D Fabrication](https://igl.ethz.c
   
     
 Rendered Animation:  
-  
-![Balanced](https://raw.githubusercontent.com/Arduino3128/MakeItStand/main/Renders/Balanced.gif)
-![Unbalanced](https://raw.githubusercontent.com/Arduino3128/MakeItStand/main/Renders/Unalanced.gif)
+
+![Unbalanced](https://raw.githubusercontent.com/Arduino3128/MakeItStand/main/Renders/Unbalanced.gif)
+![Balanced](https://raw.githubusercontent.com/Arduino3128/MakeItStand/main/Renders/Balanced.gif)  
