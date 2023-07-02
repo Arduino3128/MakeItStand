@@ -10,3 +10,6 @@ Rendered Animation:
 
 ![Unbalanced](https://raw.githubusercontent.com/Arduino3128/MakeItStand/main/Renders/Unbalanced.gif)
 ![Balanced](https://raw.githubusercontent.com/Arduino3128/MakeItStand/main/Renders/Balanced.gif)  
+  
+TODO:  
+Fix the voxel filling algorithm.
