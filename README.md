@@ -12,4 +12,5 @@ Rendered Animation:
 ![Balanced](https://raw.githubusercontent.com/Arduino3128/MakeItStand/main/Renders/Balanced.gif)  
   
 TODO:  
-Fix the voxel filling algorithm.
+✅Add support for hanging objects.  
+✅Fix the voxel filling algorithm.
